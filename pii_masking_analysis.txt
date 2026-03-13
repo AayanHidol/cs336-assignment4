@@ -1,0 +1,18 @@
+PII Masking Analysis Report
+================================================================================
+
+Documents with PII: 7
+Samples reviewed: 7
+False positives: 3
+False negatives: 0
+
+FALSE POSITIVES:
+  • extracted_text_0.txt: 4000 662 888 not masked
+  • extracted_text_18.txt: phone number masked as 0|||phone_number|||9
+  • extracted_text_4.txt: counting error?
+
+
+DETAILED STATISTICS:
+Total emails masked: 1
+Total phone numbers masked: 14
+Total IPs masked: 0
