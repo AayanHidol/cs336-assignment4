@@ -168,3 +168,4 @@ cython_debug/
 extracted_data/
 *.warc.gz
 *.warc.wet.gz
+cs336_data/assets/
